@@ -57,7 +57,7 @@ def main():
         print("2 : Find the Highest and Lowest Marks")
         print("3 : Find Marks with Highest Frequency")
         print("4 : Exit")
-        ch=int(input("Enter Your Choie : "))
+        ch=int(input("Enter Your Choice : "))
         if(ch==4):
             print("End of Program")
             break
